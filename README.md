@@ -39,7 +39,7 @@ Optional: You may have git installed on your machine. Go to
 https://git-scm.com/
 and follow the installation instructions.
 
-If you have github installed, `cd ` into your desired folder or go to the desired folder in your computer. Open a terminal and enter these commands.
+If you have git installed, `cd ` into your desired folder or go to the desired folder in your computer. Open a terminal and enter these commands.
 
 ```sh
 $ cd myfolder
