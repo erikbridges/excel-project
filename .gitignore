@@ -1,0 +1,8 @@
+/data.xlsx
+/master.xlsx
+/node_modules
+/node_modules/*
+/client/node_modules/*
+/debug.log
+/yarn.lock
+/.~lock.master.xlsx#
