@@ -28,8 +28,7 @@ This project uses several libraries in order to work properly:
 - [ExcelJS] - library for creating and modifing excel files
 - [Express] - fast node.js network app framework [@tjholowaychuk]
 
-And of course Dillinger itself is open source with a [public repository][dill]
-on GitHub.
+
 
 ### Installation
 
